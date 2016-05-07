@@ -15,7 +15,7 @@
 | Debugger(SW)     | UART/ICE/BusHound/WireShark                                    |
 | Board            | Arduino/Raspberry Pi/mbed                                      |
 | Encrypt          | AES-256/TEA/RSA                                                |
-| Checksum         | Cheskum-16/CRC/Sha-1                                           |
+| Consistency      | Cheskum/CRC/Sha-1                                              |
 | ToolChain        | Bash/GCC/GDB/Make                                              |
 | Utilities        | Markdown/Tmux/Zsh/Astyle                                       |
 | Editor           | Vim/Sublime Text/Atom/Source Insight                           |
