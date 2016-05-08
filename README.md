@@ -18,7 +18,7 @@
 | Consistency      | Cheskum/CRC/Sha-1                                              |
 | ToolChain        | Bash/GCC/GDB/Make                                              |
 | Utilities        | Markdown/Tmux/Zsh/Astyle                                       |
-| Editor           | Vim/Sublime Text/Atom/Source Insight                           |
+| Editor           | Vim/Sublime Text/Atom/Source Insight/Notepad++/UltraEditor     |
 | IDE              | MDK/IAR/Eclipse/Visual Studio                                  |
 | VCS              | Git/SVN/CI                                                     |
 | Machine Learning | Math/Computational Intelligence/Deep Learning                  |
