@@ -12,7 +12,7 @@
 | Memory           | Flash/ISP/IAP/NOR/NAND/SRAM/DRAM                               |
 | Low-Level-Lang   | C/Assembler                                                    |
 | OS               | Linux-kernel/μC/OS/VxWorks                                     |
-| Debugger(SW)     | UART/ICE/BusHound/WireShark                                    |
+| Debugger(SW)     | UART/ICE/BusHound/WireShark/adb                                |
 | Board            | Arduino/Raspberry Pi/mbed                                      |
 | Encrypt          | AES-256/TEA/RSA                                                |
 | Consistency      | Cheskum/CRC/Sha-1                                              |
